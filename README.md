@@ -14,7 +14,25 @@
 
 ### Navigation Support Engineer · SeismoPilot · Machine Learning Practitioner
 
-I build retrieval systems with citations, computer vision for industrial safety, and operational tooling shaped by **19+ years** in marine seismic navigation and technical support.
+Navigation Field Support Engineer and Chief Navigator with 19+ years of global experience in marine seismic acquisition, offshore positioning, and vessel network administration. 
+
+My career spans streamer operations and Ocean Bottom Cable (OBC) surveys, including Wide Azimuth, undershoot, and multi‑vessel campaigns conducted across five continents. 
+
+I have contributed to 2D, 3D, UHR and 4D in more than 100 exploration programs as well as emerging Carbon Capture and Storage (CCS) initiatives, giving me a rare combination of deep field operational expertise and strong technical infrastructure knowledge.
+
+What I do:
+
+On the navigation side, I specialise in complex multi-vessel operations (WAZ, Undershoot, Overunder, Push Reverse), advanced acquisition systems (Q-Marine, Isometrix, SEAL, NOAR), and precision positioning technologies including GNSS, DGPS, RTK, USBL, and Sonardyne Ranger 2. I’ve delivered 100+ seismic survey designs, preplot QC, and Navigation Quality Plans for geoscience and client teams globally.
+
+I manage offshore network infrastructure, Red Hat Enterprise and Rocky Linux Linux environments, machine virtualization platforms (VMware/KVM), and multi‑sensor data acquisition pipelines. 
+
+In addition, I develop full‑stack web applications for my personal projects, integrating AI agents and maintaining end‑to‑end CI/CD pipelines.
+
+Where I’m heading:
+
+I’m passionate about bridging traditional marine navigation with modern AI and data science. 
+
+My goal is to use AI, automation, and precision GNSS to make offshore operations safer, smarter, and more efficient.
 
 **[sqodarbaskoro.github.io](https://sqodarbaskoro.github.io)** · **[SeismoPilot](https://www.seismopilot.com)** · **[LinkedIn](https://www.linkedin.com/in/sqodarbaskoro/)** · **[Credly](https://www.credly.com/users/sri-yanto-qodarbaskoro/badges)** · **[ClariCV](https://claricv.com/)**
 
