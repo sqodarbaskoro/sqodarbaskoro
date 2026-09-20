@@ -9,22 +9,22 @@
 
 ## Current Status
 
-**Current Phase:** Publish  
-**Progress:** 90% Complete  
+**Current Phase:** Copy polish  
+**Progress:** 95% Complete  
 **Last Updated:** 2026-09-20  
-**Currently Working On:** Commit, PR, and visual verification of the landing page
+**Currently Working On:** Remove em dashes / AI filler wording and broken stats images
 
 ---
 
 ## Quick Resume Guide
 
 **Where We Left Off:**
-Built profile README + GitHub Pages landing page from LinkedIn and public repo facts.
+Removed em dashes, reduced AI buzzwords, removed contact emojis, and dropped broken github-readme-stats images from the profile README. Landing page copy updated to match.
 
 **Next Steps:**
-1. Merge PR / enable GitHub Pages on the repository
-2. Confirm https://github.com/sqodarbaskoro and https://sqodarbaskoro.github.io render correctly
-3. Optionally update GitHub profile bio to match AI-engineer positioning
+1. Merge this copy-fix PR
+2. Enable GitHub Pages on the repository
+3. Confirm https://github.com/sqodarbaskoro renders without broken image placeholders
 
 **Context Notes:**
 - Branch: `cursor/ai-engineer-profile-landing-093a`
