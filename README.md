@@ -6,7 +6,7 @@
  LinkedIn: https://www.linkedin.com/in/sqodarbaskoro/
  Created: 2026-09-20
  Modified: 2026-09-20
- Version: 1.1.0
+ Version: 1.2.0
  Copyright: © 2025 Sri Yanto Qodarbaskoro
 -->
 
@@ -25,8 +25,8 @@ I build retrieval systems with citations, computer vision for industrial safety,
 **Navigation Support Engineer @ [Shearwater GeoServices](https://www.shearwatergeo.com/)** (Jul 2024 to Present, Penang, Malaysia)  
 Global technical support for navigation departments across marine survey operations: minimizing downtime and protecting deliverable quality.
 
-**Founder @ [SeismoPilot](https://www.seismopilot.com)**  
-Independent practice focused on RAG for technical documentation, operational analytics, and workplace-safety computer vision.
+**Building [SeismoPilot](https://www.seismopilot.com)**  
+Enterprise workflow automation company. Offers process automation (including Edge PPE computer vision), intelligent document processing (ClariCV), predictive analytics, marine seismic survey optimization (Seismo Pilot Survey), and custom integrations such as SeismoBrain.
 
 ---
 

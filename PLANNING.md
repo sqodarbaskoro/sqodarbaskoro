@@ -59,7 +59,7 @@ index.html + CSS + JS ──► sqodarbaskoro.github.io
 | --- | --- |
 | LinkedIn public profile / posts | Title, Shearwater roles & dates, Schlumberger background, 19+ years experience, IBM/Coursera credentials, PPE CV project narrative |
 | GitHub public repos | SeismoBrain, AURA Sentinel, SeismoPilotSave (HSE Interlock), PDFCompress, Name2Pdf |
-| GitHub profile | Location Penang, company SeismoPilot, blog seismopilot.com |
+| GitHub profile / seismopilot.com | Location Penang, company SeismoPilot; site offers process automation, ClariCV, predictive analytics, Seismo Pilot Survey, SeismoBrain, Edge PPE vision |
 
 ---
 
