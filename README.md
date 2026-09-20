@@ -16,7 +16,7 @@
 
 I build retrieval systems with citations, computer vision for industrial safety, and operational tooling shaped by **19+ years** in marine seismic navigation and technical support.
 
-**[sqodarbaskoro.github.io](https://sqodarbaskoro.github.io)** · **[SeismoPilot](https://www.seismopilot.com)** · **[LinkedIn](https://www.linkedin.com/in/sqodarbaskoro/)** · **[Credly](https://www.credly.com/users/sri-yanto-qodarbaskoro/badges)** · **[ClariCV](https://claricv.com/**
+**[sqodarbaskoro.github.io](https://sqodarbaskoro.github.io)** · **[SeismoPilot](https://www.seismopilot.com)** · **[LinkedIn](https://www.linkedin.com/in/sqodarbaskoro/)** · **[Credly](https://www.credly.com/users/sri-yanto-qodarbaskoro/badges)** · **[ClariCV](https://claricv.com/)**
 
 ---
 
