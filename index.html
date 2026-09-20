@@ -1,0 +1,387 @@
+<!--
+ File: index.html
+ Description: Professional GitHub Pages landing page for Sri Yanto Qodarbaskoro
+ Author: Sri Yanto Qodarbaskoro
+ Contact: sqodarbaskoro@gmail.com
+ LinkedIn: https://www.linkedin.com/in/sqodarbaskoro/
+ Created: 2026-09-20
+ Modified: 2026-09-20
+ Version: 1.0.0
+ Copyright: © 2025 Sri Yanto Qodarbaskoro
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sri Yanto Qodarbaskoro — AI Engineer</title>
+    <meta
+      name="description"
+      content="AI Engineer and Navigation Support Engineer building grounded RAG systems, computer vision for industrial safety, and operational AI for marine seismic workflows."
+    />
+    <meta name="author" content="Sri Yanto Qodarbaskoro" />
+    <meta property="og:title" content="Sri Yanto Qodarbaskoro — AI Engineer" />
+    <meta
+      property="og:description"
+      content="Applied AI for technical operations: RAG, computer vision, and decision-support systems grounded in 19+ years of marine seismic experience."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://sqodarbaskoro.github.io/" />
+    <link rel="canonical" href="https://sqodarbaskoro.github.io/" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <div class="atmosphere" aria-hidden="true">
+      <canvas id="trace-canvas"></canvas>
+      <div class="mist"></div>
+    </div>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="mark" href="#top" aria-label="Sri Yanto Qodarbaskoro home">
+          <span class="mark-glyph" aria-hidden="true"></span>
+          <span class="mark-text">SQ</span>
+        </a>
+        <nav class="nav" aria-label="Primary">
+          <a href="#now">Now</a>
+          <a href="#systems">Systems</a>
+          <a href="#experience">Experience</a>
+          <a href="#stack">Stack</a>
+          <a href="#contact">Contact</a>
+        </nav>
+        <a class="header-cta" href="mailto:sqodarbaskoro@gmail.com">Email</a>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero" id="top">
+        <p class="hero-brand reveal">Sri Yanto Qodarbaskoro</p>
+        <h1 class="hero-title reveal reveal-delay-1">
+          AI engineer for real operations
+        </h1>
+        <p class="hero-lede reveal reveal-delay-2">
+          I design grounded retrieval systems, computer-vision safety tooling,
+          and decision-support AI informed by 19+ years in marine seismic
+          navigation and technical support.
+        </p>
+        <div class="hero-actions reveal reveal-delay-3">
+          <a class="btn btn-primary" href="#systems">View AI systems</a>
+          <a
+            class="btn btn-ghost"
+            href="https://www.linkedin.com/in/sqodarbaskoro/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >LinkedIn</a
+          >
+        </div>
+        <p class="hero-meta reveal reveal-delay-4">
+          <span>Penang, Malaysia</span>
+          <span class="dot" aria-hidden="true"></span>
+          <span>Shearwater GeoServices</span>
+          <span class="dot" aria-hidden="true"></span>
+          <span>SeismoPilot</span>
+        </p>
+      </section>
+
+      <section class="section now" id="now">
+        <div class="section-head">
+          <p class="eyebrow">Now</p>
+          <h2>Building applied AI beside field operations</h2>
+          <p class="section-copy">
+            Full-time Navigation Support Engineer by day; shipping
+            evidence-grounded AI systems through SeismoPilot.
+          </p>
+        </div>
+        <div class="now-grid">
+          <article class="now-block">
+            <h3>Navigation Support Engineer</h3>
+            <p class="org">Shearwater GeoServices · Penang</p>
+            <p>
+              Global technical support for marine survey navigation teams —
+              reducing downtime and protecting deliverable quality across
+              streamer and seabed operations.
+            </p>
+          </article>
+          <article class="now-block">
+            <h3>Founder · SeismoPilot</h3>
+            <p class="org">
+              <a
+                href="https://www.seismopilot.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                >seismopilot.com</a
+              >
+            </p>
+            <p>
+              Independent AI and tooling practice focused on RAG for technical
+              documentation, operational analytics, and workplace-safety
+              computer vision.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section systems" id="systems">
+        <div class="section-head">
+          <p class="eyebrow">AI systems</p>
+          <h2>Public projects built for reliability</h2>
+          <p class="section-copy">
+            Real repositories. No inflated metrics — systems shaped by field
+            constraints: evidence, fail-safe defaults, and operator trust.
+          </p>
+        </div>
+
+        <div class="project-list">
+          <a
+            class="project"
+            href="https://github.com/sqodarbaskoro/seismobrain-pb"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <div class="project-top">
+              <span class="project-tag">RAG · FastAPI · React</span>
+              <span class="project-arrow" aria-hidden="true">→</span>
+            </div>
+            <h3>SeismoBrain</h3>
+            <p>
+              Self-hosted, multi-user retrieval-augmented generation platform
+              for technical documentation. Answers with server-rendered
+              citations, sentence-level verification, typed refusals when
+              evidence is insufficient, and authorization-aware retrieval.
+            </p>
+            <ul class="project-points">
+              <li>Hybrid sparse retrieval with ACL-filtered search</li>
+              <li>OpenAI-compatible, Anthropic, Gemini, and local providers</li>
+              <li>Starter / Team / Production deployment tiers</li>
+            </ul>
+          </a>
+
+          <a
+            class="project"
+            href="https://github.com/sqodarbaskoro/AURA_Sentinel"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <div class="project-top">
+              <span class="project-tag">Gemini · React · Leaflet</span>
+              <span class="project-arrow" aria-hidden="true">→</span>
+            </div>
+            <h3>AURA Sentinel</h3>
+            <p>
+              Automated Universal Risk Analysis for Southeast Asia. Combines
+              news and geological signals with Google Gemini to score risk,
+              summarize situations, and estimate spread on an interactive map.
+            </p>
+            <ul class="project-points">
+              <li>Custom polygonal watch zones</li>
+              <li>Configurable severity alerts</li>
+              <li>Exportable risk assessment reports</li>
+            </ul>
+          </a>
+
+          <a
+            class="project"
+            href="https://github.com/sqodarbaskoro/SeismoPilotSave"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <div class="project-top">
+              <span class="project-tag">YOLOv8 · OpenCV · Arduino</span>
+              <span class="project-arrow" aria-hidden="true">→</span>
+            </div>
+            <h3>HSE Safety Interlock</h3>
+            <p>
+              Computer-vision PPE compliance gate for industrial access.
+              YOLOv8 vision server verifies hardhat and mask presence before an
+              Arduino controller enables machinery — fail-safe default OFF,
+              lockdown after repeated violations.
+            </p>
+            <ul class="project-points">
+              <li>Real-time detection with PySide6 operator dashboard</li>
+              <li>Protocol 2.0 TCP feedback (`FAIL|MASK`, `FAIL|GLASSES`)</li>
+              <li>Hybrid PC + Uno R4 WiFi architecture</li>
+            </ul>
+          </a>
+
+          <a
+            class="project"
+            href="https://github.com/sqodarbaskoro/PDFCompress"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <div class="project-top">
+              <span class="project-tag">Python · pikepdf · Ghostscript</span>
+              <span class="project-arrow" aria-hidden="true">→</span>
+            </div>
+            <h3>PDF Compress &amp; Name2Pdf</h3>
+            <p>
+              Local desktop utilities for operational document work —
+              lossless/balanced/strong PDF compression without upload services,
+              and automatic PDF renaming from visible first-page titles.
+            </p>
+            <ul class="project-points">
+              <li>
+                <span>PDFCompress</span> — tested compression pipeline
+              </li>
+              <li>
+                <span>Name2Pdf</span> — batch title-based renaming
+              </li>
+            </ul>
+          </a>
+        </div>
+      </section>
+
+      <section class="section experience" id="experience">
+        <div class="section-head">
+          <p class="eyebrow">Experience</p>
+          <h2>Nineteen years of operational depth</h2>
+          <p class="section-copy">
+            Domain expertise that shapes how AI systems should behave under
+            real survey pressure — not demos.
+          </p>
+        </div>
+
+        <ol class="timeline">
+          <li>
+            <div class="time">Jul 2024 — Present</div>
+            <div class="role">
+              <h3>Navigation Support Engineer</h3>
+              <p class="org">Shearwater GeoServices · Penang, Malaysia</p>
+              <p>
+                Field and remote support for navigation departments worldwide.
+                Focus on minimizing downtime and protecting survey deliverable
+                quality across marine operations.
+              </p>
+            </div>
+          </li>
+          <li>
+            <div class="time">Jul 2021 — Aug 2024</div>
+            <div class="role">
+              <h3>Chief Navigator</h3>
+              <p class="org">Shearwater GeoServices · Worldwide</p>
+              <p>
+                Streamer and seabed operations including Q-Marine, Isometrix,
+                2D/3D/4D/oblique, WAZ, undershoot, and Q-Seabed. Led cold-stack
+                reactivation, navigation-server upgrades, Hybrid Orca
+                installation, and Trinav 6 upgrades under multi-vessel SIMOPS.
+              </p>
+            </div>
+          </li>
+          <li>
+            <div class="time">Nov 2018 — Jun 2021</div>
+            <div class="role">
+              <h3>SL Navigators Network Administrator</h3>
+              <p class="org">Shearwater GeoServices · Worldwide</p>
+              <p>
+                Network and navigation systems administration supporting global
+                navigator operations.
+              </p>
+            </div>
+          </li>
+          <li>
+            <div class="time">Earlier career</div>
+            <div class="role">
+              <h3>Senior Positioning Specialist &amp; Network Administrator</h3>
+              <p class="org">Schlumberger</p>
+              <p>
+                Positioning and network administration foundation across marine
+                seismic acquisition — part of 19+ years total professional
+                experience.
+              </p>
+            </div>
+          </li>
+        </ol>
+
+        <div class="certs">
+          <h3>Recent AI &amp; data credentials</h3>
+          <ul>
+            <li>IBM Data Analyst Professional Certificate — Coursera</li>
+            <li>IBM Data Science Capstone Project — Coursera</li>
+            <li>Python for Data Science, AI &amp; Development — IBM / Coursera</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="section stack" id="stack">
+        <div class="section-head">
+          <p class="eyebrow">Stack</p>
+          <h2>Tools that ship under constraint</h2>
+        </div>
+        <div class="stack-columns">
+          <div>
+            <h3>AI &amp; ML</h3>
+            <p>
+              RAG pipelines, claim verification, Gemini, OpenAI-compatible
+              endpoints, Anthropic, YOLOv8, OpenCV, Hugging Face / Kaggle
+              datasets
+            </p>
+          </div>
+          <div>
+            <h3>Engineering</h3>
+            <p>
+              Python, TypeScript, FastAPI, React, Vite, SQLite / PostgreSQL,
+              Qdrant adapters, Docker / Helm paths, Tkinter / PySide6
+            </p>
+          </div>
+          <div>
+            <h3>Domain</h3>
+            <p>
+              Marine seismic navigation, streamer &amp; OBN surveys, acoustic
+              network QC, LMO / dither analysis, HSE interlocks, technical
+              support at fleet scale
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section contact" id="contact">
+        <div class="section-head">
+          <p class="eyebrow">Contact</p>
+          <h2>Let’s talk applied AI</h2>
+          <p class="section-copy">
+            Open to collaboration on grounded RAG, operational computer vision,
+            and AI tooling for technical support workflows.
+          </p>
+        </div>
+        <div class="contact-links">
+          <a href="mailto:sqodarbaskoro@gmail.com">sqodarbaskoro@gmail.com</a>
+          <a
+            href="https://www.linkedin.com/in/sqodarbaskoro/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >LinkedIn</a
+          >
+          <a
+            href="https://github.com/sqodarbaskoro"
+            target="_blank"
+            rel="noopener noreferrer"
+            >GitHub</a
+          >
+          <a
+            href="https://www.seismopilot.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            >SeismoPilot</a
+          >
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        © 2025 Sri Yanto Qodarbaskoro · Facts drawn from public LinkedIn and
+        GitHub repositories
+      </p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
