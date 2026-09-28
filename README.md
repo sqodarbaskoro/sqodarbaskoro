@@ -151,5 +151,3 @@ Verified on [Credly](https://www.credly.com/users/sri-yanto-qodarbaskoro/badges)
 - Location: Penang, Malaysia
 
 ---
-
-<sub>Profile facts sourced from public LinkedIn, Credly, and GitHub repositories. Landing page source lives in this repo.</sub>
