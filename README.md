@@ -138,7 +138,7 @@ Verified on [Credly](https://www.credly.com/users/sri-yanto-qodarbaskoro/badges)
 
 **Engineering:** Python, TypeScript, FastAPI, React, Vite, SQLite / PostgreSQL, Qdrant adapters, Docker / Helm
 
-**Domain:** Marine seismic navigation, streamer and OBN, acoustic network QC, LMO / dither analysis, HSE interlocks
+**Domain:** Marine seismic navigation software and HW,RHEL and Rocky Linux Administration, streamer and OBN, Ai Engineering, Edge AI
 
 ---
 
